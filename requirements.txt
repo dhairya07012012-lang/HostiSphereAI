@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+supabase
+openai
+bcrypt
+numpy
+scikit-learn
